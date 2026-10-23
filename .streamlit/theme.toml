@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#7C3AED"          # buttons, sliders, links
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A1D24"   # sidebar and input boxes
+textColor = "#FAFAFA"
+font = "sans serif"
